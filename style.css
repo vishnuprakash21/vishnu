@@ -1,0 +1,23 @@
+
+        .form-heading{
+            background-color: aqua;
+            justify-content: center;
+            display: flex;
+            width: 55%;
+            
+            
+        }
+        .form-element{
+            margin: 7px;
+            background-color: lightgray;
+            width: 55%;
+            
+        }
+        .form{
+            width: 55%;
+           padding-left: 35%;
+           
+           
+        }
+        
+        
